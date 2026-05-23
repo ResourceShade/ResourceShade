@@ -50,11 +50,10 @@ No dia a dia de desenvolvimento, prezo pela clareza na comunicação com a equip
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="170" src="https://shion.dev" />
-  <img height="170" src="https://shion.dev" />
+  <img height="170" src="https://herokuapp.com" />
 </p>
 
 ---
