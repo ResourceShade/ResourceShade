@@ -49,18 +49,17 @@ No dia a dia de desenvolvimento, prezo pela clareza na comunicação com a equip
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ResourceShade&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=ResourceShade&show_icons=true&theme=tokyonight&cache_seconds=86400"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResourceShade&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResourceShade&layout=compact&theme=tokyonight&cache_seconds=86400"
   />
 </p>
 
