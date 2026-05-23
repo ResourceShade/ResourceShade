@@ -50,10 +50,11 @@ No dia a dia de desenvolvimento, prezo pela clareza na comunicação com a equip
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://herokuapp.com" />
+  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ResourceShade&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ResourceShade&layout=compact&theme=tokyonight" />
 </p>
 
 ---
