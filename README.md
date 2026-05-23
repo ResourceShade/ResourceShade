@@ -55,12 +55,12 @@ No dia a dia de desenvolvimento, prezo pela clareza na comunicação com a equip
 <p align="left">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ResourceShade&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=ResourceShade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResourceShade&layout=compact&theme=tokyonight&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResourceShade&layout=compact&theme=tokyonight&langs_count=8"
   />
 </p>
 
