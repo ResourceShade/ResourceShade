@@ -3,9 +3,9 @@
 🚀 **Desenvolvedor Back-End | Ecossistema Java**  
 🇧🇷 Brasil
 
-Graduando em Ciência da Computação focado no ecossistema Java. Desenvolvo APIs REST e microsserviços aplicando padrões de arquitetura para garantir a performance e a manutenibilidade do sistema, traduzindo regras de negócio complexas em código limpo.
+Graduando em Ciência da Computação (3º período), com foco em back-end Java. Construo APIs REST com Spring Boot e Hibernate, aplico padrão MVC e versiono com Git e GitHub — projetos publicados aqui.
 
-No dia a dia de desenvolvimento, prezo pela clareza na comunicação com a equipe e pelo pragmatismo na resolução de problemas.
+Tenho 5 certificações técnicas pela Rocketseat e estou buscando minha primeira oportunidade profissional na área.
 
 ---
 
